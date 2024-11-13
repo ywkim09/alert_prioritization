@@ -1,4 +1,4 @@
-# POMDP_simulation
+# Attack Simulation with Dynamic Alert Prioritization 
 
 Currently, all codes use the small toy example attack graph due to the following setting.
     num = "_small"
